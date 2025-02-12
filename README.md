@@ -20,7 +20,7 @@ git clone https://github.com/YourUsername/FashionShopApp.git
 ```
 2️⃣ **Navigate to the Project Directory**
 ```
-cd FashionShopApp
+cd FashionShop
 ```
 
 3️⃣ **Compile and Run the Application**
@@ -31,4 +31,4 @@ java Main
 
 🚀 Happy Coding! 🛍️✨
 
-This **README.md** provides a **clear overview** of your **Fashion Shop application**, making it **professional and informative**. Let me know if you want any **modifications**! 🚀😊
+
